@@ -1,1 +1,10 @@
-lambda_, A1 deg [deg], A2 deg [deg], A1 deg min [deg min], A2 deg min [deg min]
+lambda_, A1 deg [deg], A2 deg [deg], A1 deg min [deg min], A2 deg min [deg min], lambda_label
+690.8,4,269,44,59,Dark Red (medium)
+623.4,5,269,15,41,Red (weak)
+579.1,5,269,40,09,Yellow (strong)
+577.0,5,269,42,08.5,Yellow (strong)
+546.1,6,268,00,56,Green (strong)
+491.6,6,268,40,11,Blue Green (medium)
+435.8,7,267,40,20,Indigo (strong)
+407.8,8,266,30,12,Violet (medium)
+404.7,8,265,40,05,Violet (medium)
